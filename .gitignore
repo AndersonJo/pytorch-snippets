@@ -1,0 +1,7 @@
+# python
+*.pyc
+.ipynb_checkpoints
+
+# Pytorch
+*.pth
+checkpoints

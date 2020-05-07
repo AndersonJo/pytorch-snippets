@@ -5,3 +5,7 @@
 # Pytorch
 *.pth
 checkpoints
+
+# Data
+lightning_logs
+MNIST
